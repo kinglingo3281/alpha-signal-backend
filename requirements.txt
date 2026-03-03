@@ -1,0 +1,3 @@
+# No external dependencies beyond stdlib for the scripts themselves.
+# The openclaw_agent_client module (provided separately via HL_TRADER_DIR)
+# may have its own dependencies.
